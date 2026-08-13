@@ -2,15 +2,11 @@
 
 ###
 
-<br clear="both">
-
-###
-
 <p data-importer="text" align="left">I'm a student currently studying BSIT at Pamantasan ng Lungsod ng Valenzuela. I'm learning in public and documenting my journey as I go.</p>
 
 ###
 
-<h3 data-importer="text" align="left">About me</h3>
+<h2 data-importer="text" align="left">About me</h2>
 
 ###
 
@@ -18,7 +14,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">What I'm Working On</h3>
+<h2 data-importer="text" align="left">What I'm Working On</h2>
 
 ###
 
@@ -26,7 +22,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Currently Reading / Following</h3>
+<h2 data-importer="text" align="left">Currently Reading / Following</h2>
 
 ###
 
@@ -34,7 +30,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Skills</h3>
+<h2 data-importer="text" align="left">Skills</h2>
 
 ###
 
