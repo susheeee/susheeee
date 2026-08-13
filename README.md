@@ -4,8 +4,6 @@
 
 <br clear="both">
 
-<img data-importer="image" align="right" height="166" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzU4cTVhcHl6c2FneHl5bmthangxMDJpYWxlbWdreHQ0ZGpwOTRndSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tptFQ8QAJYYvu/giphy.gif"  />
-
 ###
 
 <p data-importer="text" align="left">I'm a student currently studying BSIT at Pamantasan ng Lungsod ng Valenzuela. I'm learning in public and documenting my journey as I go.</p>
@@ -16,7 +14,7 @@
 
 ###
 
-<p data-importer="text" align="left">📚 Coursework I'm exploring: Unity and C#.<br>💬 Ask me about: Game and Web Development.<br>📫 Reach me at: johnkennarvasaiii@gmail.com</p>
+<p data-importer="text" align="left">📚 <b>Coursework I'm exploring</b>: Unity and C#.<br>💬 <b>Ask me about</b>: Game and Web Development.<br>📫 <b>Reach me at</b>: johnkennarvasaiii@gmail.com</p>
 
 ###
 
@@ -33,6 +31,10 @@
 ###
 
 <p data-importer="text" align="left"><b>The Odin Project</b> - Full Stack curriculum</p>
+
+###
+
+<br clear="both">
 
 ###
 
