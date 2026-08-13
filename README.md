@@ -34,10 +34,6 @@
 
 ###
 
-<br clear="both">
-
-###
-
 <h3 data-importer="text" align="left">Skills</h3>
 
 ###
