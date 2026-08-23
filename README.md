@@ -18,6 +18,8 @@
 
 ###
 
+<p data-importer="text" align="left"><b>ecotures</b> - a Auto-Battler Chess Tactics Game in a circular economy theme. </p>
+
 <p data-importer="text" align="left"><b>peak-pressure</b> - a Competitive Survival Race Card Game where reading the trail is just as<br>important as watching your back.</p>
 
 ###
